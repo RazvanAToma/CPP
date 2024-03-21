@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razva\\source\\repos\\RazvanAToma\\CPP\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600C8930-D8F6-482C-A0E1-2D5439DA2F04}|test.vcxproj|C:\\Users\\razva\\source\\repos\\RazvanAToma\\CPP\\test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{600C8930-D8F6-482C-A0E1-2D5439DA2F04}|test.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\source\\repos\\RazvanAToma\\CPP\\test\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "C:\\Users\\razva\\source\\repos\\RazvanAToma\\CPP\\test\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T08:56:58.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
